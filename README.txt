@@ -7,4 +7,4 @@ git commit
 git log
 git log -p -2
 git config
-
+git commit --amend
